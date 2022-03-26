@@ -9,6 +9,7 @@ Slack を使い慣れていない人に Slack を説明するにあたり，「T
 ### 例
 
 ▼ スレッドに内容を残さなくても良いような投稿をリアクションで反応することで対応する．
+
 <img src="/images/reaction_01.png" width=50%>
 
 <img src="/images/reaction_02.png" width=50%>
