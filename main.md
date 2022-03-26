@@ -9,9 +9,9 @@ Slack を使い慣れていない人に Slack を説明するにあたり，「T
 ### 例
 
 ▼ スレッドに内容を残さなくても良いような投稿をリアクションで反応することで対応する．
-![reaction01](/images/reaction_01.png)
+<img src="/images/reaction_01.png" width=50%>
 
-![reaction02](/images/reaction_02.png)
+<img src="/images/reaction_02.png" width=50%>
 
 ## メンション
 
@@ -30,17 +30,17 @@ Slack を使い慣れていない人に Slack を説明するにあたり，「T
 
 `@hogehoge`は特定の参加者に対してメンションを送信します．以下の画像のように`@`を入力するとワークスペース参加者が出てきますので該当者を選択します．
 
-![mention](/images/slack_mention.png)
+<img src="/images/slack_mention.png" width=50%>
 
 ## 自分自身との DM
 
 Slack のおすすめ機能として，**自分自身との DM**があります．イメージとしてはブラウザの`ブックマーク`です．後で読みたい Web サイトのリンクを自身の DM に宛てて送信すれば後で簡単に読み返すことができます．
 
-![dm01](/images/dm_02.png)
+<img src="/images/reaction_02.png" width=50%>
 
 また，Web サイトのみではなく画像ファイルや PDF ファイルも添付できるので，講義のレジュメや論文なんかも忘備録として記録することができます．
 
-![dm02](/images/dm_01.png)
+<img src="/images/reaction_01.png" width=50%>
 
 さらに，Slack では**メッセージ内容を通知するリマインドを通知することができる**のであらかじめ設定しておけば忘れることも減るでしょう．
 
