@@ -53,10 +53,19 @@ Slack は各々が使いたくなるようなカスタマイズをすること�
 
 ここでいうテーマとは，App を開いてすぐ開かれる場所の**色**のことです．デフォルトでは以下の画像のように紫色になっているかと思います．
 
-<img src="/images/theme_01.png" width=50%>
-<img src="/images/theme_02.png" width=50%>
-<img src="/images/theme_03.png" width=50%>
-<img src="/images/theme_04.png" width=50%>
+<img src="/images/theme_01.png" width=60%>
+
+`環境設定 > テーマ` からこの色を変えることができます．
+
+<img src="/images/theme_02.png" width=60%>
+
+また，カラーコードを入力して自分好みの配色をすることも可能です．
+
+<img src="/images/theme_03.png" width=60%>
+
+自分にとってテンションが上がる配色に変更してみてください．ちなみに私のは黄色です．チョコバナナみたいで可愛いね．
+
+<img src="/images/theme_04.png" width=60%>
 
 ## 細かい通知設定
 
