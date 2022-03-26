@@ -10,9 +10,9 @@ Slack を使い慣れていない人に Slack を説明するにあたり，「T
 
 ▼ スレッドに内容を残さなくても良いような投稿をリアクションで反応することで対応する．
 
-<img src="/images/reaction_01.png" width=50%>
+<img src="/images/reaction_01.png" width=100%>
 
-<img src="/images/reaction_02.png" width=50%>
+<img src="/images/reaction_02.png" width=25%>
 
 ## メンション
 
@@ -31,7 +31,7 @@ Slack を使い慣れていない人に Slack を説明するにあたり，「T
 
 `@hogehoge`は特定の参加者に対してメンションを送信します．以下の画像のように`@`を入力するとワークスペース参加者が出てきますので該当者を選択します．
 
-<img src="/images/slack_mention.png" width=50%>
+<img src="/images/slack_mention.png" width=45%>
 
 ## 自分自身との DM
 
