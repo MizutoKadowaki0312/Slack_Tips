@@ -74,3 +74,7 @@ Slack は各チャンネルごとに通知設定を分けたり，キーワー�
 https://slack.com/intl/ja-jp/resources/using-slack/customize-your-notifications-in-slack
 
 ## 自作スタンプ
+
+Slack はスタンプでリアクションできることを先述しましたが，オリジナルスタンプを作成することができます．以下のサイトでは web ページを使って作成する方法を紹介していますが，簡単には pptx などを使って作成することもできます．ぜひオリジナリティあふれるスタンプを作って遊んでください．
+
+https://liginc.co.jp/502646
