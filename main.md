@@ -69,4 +69,8 @@ Slack は各々が使いたくなるようなカスタマイズをすること�
 
 ## 細かい通知設定
 
+Slack は各チャンネルごとに通知設定を分けたり，キーワードごとに通知を設定することができます．公式サイトに設定方法が載っていましたのでご覧ください．
+
+https://slack.com/intl/ja-jp/resources/using-slack/customize-your-notifications-in-slack
+
 ## 自作スタンプ
