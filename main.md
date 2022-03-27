@@ -59,7 +59,7 @@ Slack は各々が使いたくなるようなカスタマイズをすること�
 
 <img src="/images/theme_02.png" width=60%>
 
-また，カラーコードを入力して自分好みの配色をすることも可能です．
+また，カラーコードを入力して自分好みの配色をすることも可能です．[こちらのサイト](https://slackthemes.net/#/aubergine)や[こちらのサイト](https://slack-themes.vercel.app/?order=asc&sort=theme_name)では Slack のテーマを配布しています．気に入ったもののカラーコードを適用できます．
 
 <img src="/images/theme_03.png" width=60%>
 
